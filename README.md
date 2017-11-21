@@ -77,3 +77,5 @@ pod 'SwiftMQTT'
 
 # License
 MIT
+
+Authors: Naveed Zanoon, Priyanka Gopakumar, Shishira Skanda, Zaeem Siddiq
