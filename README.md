@@ -1,16 +1,12 @@
-# SwiftMQTT
-MQTT Client in pure swift ❤️
+PiWatch
 
-Master:
-[![Build Status](https://travis-ci.org/aciidb0mb3r/SwiftMQTT.svg)](https://travis-ci.org/aciidb0mb3r/SwiftMQTT)
+Objective: This project was developed to demonstrate the ability to develop a comprehensive system using advanced mobile technologies.  
 
-# Info
-* Fully written in swift from ground up
-* Closures everywhere :D
-* Includes test cases and sample project
+Description: 
+PiWatch is a security surveillance system. An iOS application is integrated with Raspberry Pi connected to motion detector, sound sensor and video stream camera. The application alerts the user incase of an intrusion and provides option to either capture an image or live stream the area. MQTT, a lightweight messaging protocol for small sensors and mobile devices, is used to optimize high-latency.
+
+* Leveraged on https://github.com/aciidb0mb3r/SwiftMQTT
 * Based on MQTT Version 3.1.1 (http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718043)
-
-![Sample Project Screenshot](http://i.imgur.com/9lefVmVl.png)
 
 # How to use
 
